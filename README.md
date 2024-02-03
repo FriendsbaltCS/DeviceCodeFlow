@@ -1,2 +1,2 @@
-# DeviceCodeFlow
-Advanced Topics project for practicing the OAuth Device Code Flow
+# Device Code Flow Project
+In this project, you will practice using the device code flow.
